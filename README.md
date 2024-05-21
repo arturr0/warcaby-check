@@ -1,0 +1,2 @@
+# warcaby-check
+check multikill
